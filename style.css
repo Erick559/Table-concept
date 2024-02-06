@@ -80,6 +80,10 @@ tbody tr {
     background-image: url(noise.png);
 }
 
+table {
+    background: #ff33cc;
+}
+
 caption {
     font-family: "Rock Salt", cursive;
     padding: 20px;
