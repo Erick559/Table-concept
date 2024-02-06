@@ -67,3 +67,15 @@ tfoot td {
     background: linear-gradient(to bottom, rgb(0 0 0 / 10%), rgb(0 0 0 / 50%));
     border: 3px solid purple;
 }
+
+tbody tr:nth-child(odd) {
+    background: #E7A9E7;
+}
+
+tbody tr:nth-child(even) {
+    background: #FC57D3;
+}
+
+tbody tr {
+    background-image: url(noise.png);
+}
