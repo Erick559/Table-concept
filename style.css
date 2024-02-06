@@ -37,3 +37,11 @@ thead th,
 tfoot th {
     font-family: 'Rock Salt', cursive;
 }
+
+th {
+    letter-spacing: 2px;
+}
+
+td {
+    letter-spacing: 1px;
+}
